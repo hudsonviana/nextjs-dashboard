@@ -12,10 +12,3 @@ export default function RootLayout({
     </html>
   );
 }
-
-const teste = {
-  ok: 'sim',
-  erro: 'não',
-};
-
-console.log(teste.ok);
